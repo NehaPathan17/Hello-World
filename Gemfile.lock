@@ -209,6 +209,7 @@ DEPENDENCIES
   capybara (= 3.28.0)
   jbuilder (= 2.9.1)
   listen (= 3.1.5)
+  mimemagic (= 0.3.10)
   pg (= 1.1.4)
   puma (= 3.12.1)
   rails (= 6.0.0)
