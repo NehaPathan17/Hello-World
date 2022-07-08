@@ -1,0 +1,24 @@
+Started GET "/" for ::1 at 2022-07-04 15:33:57 +0530
+  [1m[35m (0.8ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/bacancy/.rvm/gems/ruby-2.6.0/gems/railties-6.0.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/bacancy/.rvm/gems/ruby-2.6.0/gems/railties-6.0.0/lib/rails/templates/rails/welcome/index.html.erb (Duration: 5.6ms | Allocations: 478)
+Completed 200 OK in 13ms (Views: 8.1ms | ActiveRecord: 0.0ms | Allocations: 2725)
+
+
+Started GET "/" for ::1 at 2022-07-04 15:39:11 +0530
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (Duration: 0.0ms | Allocations: 4)
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.0ms | Allocations: 696)
+
+
+Started GET "/" for ::1 at 2022-07-08 11:32:19 +0530
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 6ms (Views: 2.5ms | ActiveRecord: 0.0ms | Allocations: 1485)
+
+
